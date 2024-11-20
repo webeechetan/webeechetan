@@ -41,6 +41,9 @@
   <a href="https://github.com/webeechetan/github-readme-stats"><img height="165em" alt="Chetan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webeechetan&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></a>
 </div>
 
+##
+![github-user-contribution](https://user-images.githubusercontent.com/66480577/200155724-1cf6e351-df60-4b2b-83ce-78a3601d5661.svg)
+
 ---
 
 ## <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50"/> Connect with Me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50"/>
@@ -51,9 +54,6 @@
 </div>
 
 ---
-
-##
-![github-user-contribution](https://user-images.githubusercontent.com/66480577/200155724-1cf6e351-df60-4b2b-83ce-78a3601d5661.svg)
 
 ## ❤ Views and Followers
 <div align="center">
