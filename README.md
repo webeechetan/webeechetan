@@ -37,8 +37,8 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <a href="https://github.com/chetansingh24/github-readme-stats"><img height="165em" alt="Chetan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chetansingh24&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" /></a>
-  <a href="https://github.com/chetansingh24/github-readme-stats"><img height="165em" alt="Chetan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetansingh24&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></a>
+  <a href="https://github.com/webeechetan/github-readme-stats"><img height="165em" alt="Chetan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=webeechetan&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" /></a>
+  <a href="https://github.com/webeechetan/github-readme-stats"><img height="165em" alt="Chetan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webeechetan&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></a>
 </div>
 
 ---
@@ -47,15 +47,15 @@
 
 <div align="center">
   <a href="mailto:coders24.online@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://linkedin.com/in/chetansingh24" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://linkedin.com/in/webeechetan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ---
 
 ## ❤ Views and Followers
 <div align="center">
-	<a href="https://github.com/chetansingh24/github-profile-views-counter">
-		<img src="https://komarev.com/ghpvc/?username=chetansingh24">
+	<a href="https://github.com/webeechetan/github-profile-views-counter">
+		<img src="https://komarev.com/ghpvc/?username=webeechetan">
 	</a>
-	<a href="https://github.com/chetansingh24?tab=followers"><img src="https://img.shields.io/github/followers/chetansingh24?label=Followers&style=social" alt="GitHub Badge"></a>
+	<a href="https://github.com/webeechetan?tab=followers"><img src="https://img.shields.io/github/followers/webeechetan?label=Followers&style=social" alt="GitHub Badge"></a>
 </div>
